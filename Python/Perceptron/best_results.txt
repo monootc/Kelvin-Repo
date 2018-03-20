@@ -1,0 +1,111 @@
+Asia:
+weight_1 = 0.8025482999999607, weight_2 = 1.9396063000005486, weight_bias = -51
+Atlantic:
+weight_1 = 1.0538353999999932, weight_2 = 0.06485770000002875, weight_bias = -42
+Antarctica:
+weight_1 = -1.1675150000000016, weight_2 = 0.3163140999999995, weight_bias = -55
+America:
+weight_1 = 0.1532279000000502, weight_2 = -1.1187352999999873, weight_bias = -12
+Africa:
+weight_1 = -0.07608379999996889, weight_2 = -0.3835031000006918, weight_bias = -17
+Indian:
+weight_1 = -1.8220462999998894, weight_2 = -0.12599129999977488, weight_bias = -44
+Australia:
+weight_1 = -5.995691300000254, weight_2 = -0.8444175000003236, weight_bias = -146
+Europe:
+weight_1 = 6.5382291999945314, weight_2 = 0.8791310000002699, weight_bias = -123
+Pacific:
+weight_1 = -1.4955029999998852, weight_2 = -0.5388066999995935, weight_bias = -65
+Arctic:
+weight_1 = 1.7173954999999963, weight_2 = -0.004941400000001206, weight_bias = -66
+
+            Neuron: Asia
+                Correct: 94.71%
+                    True Positive: 27.26%
+                    True Negative: 67.45%
+                Incorrect: 5.29%
+                    False Positive: 4.56%
+                    False Negative: 0.73%
+            
+
+            Neuron: Atlantic
+                Correct: 99.85%
+                    True Positive: 0.0%
+                    True Negative: 99.85%
+                Incorrect: 0.15%
+                    False Positive: 0.0%
+                    False Negative: 0.15%
+            
+
+            Neuron: Antarctica
+                Correct: 100.0%
+                    True Positive: 0.0%
+                    True Negative: 100.0%
+                Incorrect: 0.0%
+                    False Positive: 0.0%
+                    False Negative: 0.0%
+            
+
+            Neuron: America
+                Correct: 99.78%
+                    True Positive: 21.22%
+                    True Negative: 78.57%
+                Incorrect: 0.22%
+                    False Positive: 0.22%
+                    False Negative: 0.0%
+            
+
+            Neuron: Africa
+                Correct: 90.72%
+                    True Positive: 0.0%
+                    True Negative: 90.72%
+                Incorrect: 9.28%
+                    False Positive: 6.61%
+                    False Negative: 2.68%
+            
+
+            Neuron: Indian
+                Correct: 99.72%
+                    True Positive: 0.0%
+                    True Negative: 99.72%
+                Incorrect: 0.28%
+                    False Positive: 0.03%
+                    False Negative: 0.25%
+            
+
+            Neuron: Australia
+                Correct: 98.68%
+                    True Positive: 0.0%
+                    True Negative: 98.68%
+                Incorrect: 1.32%
+                    False Positive: 0.08%
+                    False Negative: 1.24%
+            
+
+            Neuron: Europe
+                Correct: 84.79%
+                    True Positive: 45.47%
+                    True Negative: 39.32%
+                Incorrect: 15.21%
+                    False Positive: 14.62%
+                    False Negative: 0.6%
+            
+
+            Neuron: Pacific
+                Correct: 99.59%
+                    True Positive: 0.0%
+                    True Negative: 99.59%
+                Incorrect: 0.41%
+                    False Positive: 0.0%
+                    False Negative: 0.41%
+            
+
+            Neuron: Arctic
+                Correct: 100.0%
+                    True Positive: 0.0%
+                    True Negative: 100.0%
+                Incorrect: 0.0%
+                    False Positive: 0.0%
+                    False Negative: 0.0%
+            
+
